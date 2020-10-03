@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1601685061 source:/home/jgonzalezcard/Escritorio/tp_laboratorio_1/TP2/TP2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+
+1601681070 /home/jgonzalezcard/Escritorio/tp_laboratorio_1/TP2/TP2/ArrayEmployees.h
+
+1601680317 source:/home/jgonzalezcard/Escritorio/tp_laboratorio_1/TP2/TP2/ArrayEmployees.c
+	<stdio_ext.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<ctype.h>
+	"ArrayEmployees.h"
+

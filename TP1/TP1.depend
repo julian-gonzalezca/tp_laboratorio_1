@@ -4,10 +4,11 @@
 	<stdlib.h>
 	"funciones.h"
 
-1599941845 source:/home/jgonzalezcard/Escritorio/tp_laboratorio_1/TP1/funciones.c
+1600037276 source:/home/jgonzalezcard/Escritorio/tp_laboratorio_1/TP1/funciones.c
 	<stdio.h>
 	<stdlib.h>
 	"funciones.h"
+	<string.h>
 
 1599941847 /home/jgonzalezcard/Escritorio/tp_laboratorio_1/TP1/funciones.h
 	<stdio.h>
